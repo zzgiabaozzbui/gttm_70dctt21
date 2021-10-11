@@ -1,0 +1,14 @@
+<routes>
+   <flow id="route_0" from="gneE0" to="gneE3" end="3600" probability="0.25"/>
+   <flow id="route_1" from="gneE0" to="gneE2" end="3600" probability="0.5"/>
+   <flow id="route_2" from="gneE0" to="gneE1" end="3600" probability="0.25"/>
+   <flow id="route_3" from="gneE4" to="gneE2" end="3600" probability="0.25"/>
+   <flow id="route_4" from="gneE4" to="gneE1" end="3600" probability="0.5"/>
+   <flow id="route_5" from="gneE4" to="gneE7" end="3600" probability="0.25"/>
+   <flow id="route_6" from="gneE5" to="gneE1" end="3600" probability="0.25"/>
+   <flow id="route_7" from="gneE5" to="gneE7" end="3600" probability="0.5"/>
+   <flow id="route_8" from="gneE5" to="gneE3" end="3600" probability="0.25"/>
+   <flow id="route_9" from="gneE6" to="gneE7" end="3600" probability="0.25"/>
+   <flow id="route_10" from="gneE6" to="gneE3" end="3600" probability="0.5"/>
+   <flow id="route_11" from="gneE6" to="gneE2" end="3600" probability="0.25"/>
+</routes>
